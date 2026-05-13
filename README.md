@@ -183,9 +183,6 @@ Languages:   English (C1) · Portuguese (Native) · Spanish (B1) · French (A1)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vitor-andrade&theme=tokyonight&hide_border=false&background=0d1117&stroke=1e1e2e&ring=39d353&fire=f97316&currStreakLabel=39d353&sideLabels=39d353&dates=c9d1d9&border_radius=10" alt="GitHub Streak"/><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor-andrade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&border_color=1e1e2e"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-andrade&layout=compact&langs_count=10&theme=tokyonight&border_radius=10&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&border_color=1e1e2e"/>
 
 </div>
 
