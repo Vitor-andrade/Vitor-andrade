@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,25:061a0d,50:0a3d1c,75:061a0d,100:0a0a0f&height=260&section=header&text=Vitor%20Cavalcante&fontSize=72&fontColor=dafbe1&fontAlignY=42&animation=fadeIn&desc=Senior%20Fullstack%20Engineer%20%E2%80%A2%20React%20%C2%B7%20Next.js%20%C2%B7%20React%20Native%20%C2%B7%20Node.js%20%C2%B7%20NestJS%20%C2%B7%20AWS&descAlignY=64&descSize=16&descColor=39d353" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,25:061a0d,50:0a3d1c,75:061a0d,100:0a0a0f&height=260&section=header&text=Vitor%20Cavalcante&fontSize=72&fontColor=dafbe1&fontAlignY=42&animation=fadeIn&desc=Senior%20Software%20Engineer%20%E2%80%A2%20React%20%C2%B7%20Next.js%20%C2%B7%20React%20Native%20%C2%B7%20Node.js%20%C2%B7%20NestJS%20%C2%B7%20AWS&descAlignY=64&descSize=16&descColor=39d353" />
 
 <br/>
 
@@ -20,11 +20,11 @@
 
 <div align="center">
 
-**Vitor Cavalcante** — *Senior Fullstack Engineer · 6+ years building cloud-native platforms · Applied AI engineering*
+**Vitor Cavalcante** — *Senior Software Engineer · 6+ years building cloud-native platforms · Applied AI engineering*
 
 </div>
 
-Fullstack Engineer with **6+ years of experience**, backed by a strong foundation in **Computer Engineering (BSc)** and a **postgraduate in Cybersecurity**. Proficient in **React, Next.js, React Native, Node.js, NestJS, AWS, TypeScript, and PostgreSQL** — focused on constructing **scalable, high-performance applications** across frontend, backend, mobile, and cloud environments.
+Software Engineer with **6+ years of experience**, backed by a strong foundation in **Computer Engineering (BSc)** and a **postgraduate in Cybersecurity**. Proficient in **React, Next.js, React Native, Node.js, NestJS, AWS, TypeScript, and PostgreSQL** — focused on constructing **scalable, high-performance applications** across frontend, backend, mobile, and cloud environments.
 
 I also bring **hands-on AI engineering experience**: integrating conversational agents, **retrieval-augmented generation (RAG)**, model APIs, conversation evaluations, and MCP-based automation. In international, cross-functional teams, I've owned delivery across architecture, frontend, backend, databases, integrations, and production operations.
 
@@ -48,7 +48,7 @@ I'm a **Secure Developer Professional certified by CECyber**, driven by building
 > whoami
 
 Name:        Vitor Cavalcante
-Role:        Senior Fullstack Engineer / Senior Software Engineer
+Role:        Senior Software Engineer
 Location:    Brasília, Brazil
 
 Stack:       React • Next.js • React Native • Node.js • NestJS • TypeScript
