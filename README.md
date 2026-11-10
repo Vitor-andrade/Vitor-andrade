@@ -6,6 +6,7 @@
 
 <a href="https://www.linkedin.com/in/vitor-andrade-cavalcante/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f" /></a>&nbsp;
 <a href="mailto:vitor.andradecavalcante@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-56d364?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f" /></a>&nbsp;
+<a href="https://vitor-cavalcante.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Online_Resume-Visit_Site-39d353?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0f" alt="Open online résumé" /></a>&nbsp;
 <a href="https://github.com/Vitor-andrade/Vitor-andrade/raw/refs/heads/main/assets/Vitor_Cavalcante_Software_Eng.pdf"><img src="https://img.shields.io/badge/📄_Download_CV-PDF-39d353?style=for-the-badge&logoColor=white&labelColor=0a0a0f" /></a>
 
 <br/>
@@ -353,6 +354,7 @@ I thrive in environments where engineering meets real business impact: where dec
 
 <a href="https://www.linkedin.com/in/vitor-andrade-cavalcante/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f" /></a>&nbsp;
 <a href="mailto:vitor.andradecavalcante@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-56d364?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f" /></a>&nbsp;
+<a href="https://vitor-cavalcante.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Online_Resume-Visit_Site-39d353?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0f" alt="Open online résumé" /></a>&nbsp;
 <a href="https://github.com/Vitor-andrade/Vitor-andrade/raw/refs/heads/main/assets/Vitor_Cavalcante_Software_Eng.pdf"><img src="https://img.shields.io/badge/📄_Download_CV-PDF-39d353?style=for-the-badge&logoColor=white&labelColor=0a0a0f" /></a>
 
 <br/>
