@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=18&duration=2600&pause=800&color=39D353&center=true&vCenter=true&multiline=false&width=760&lines=Architect+of+scalable%2C+production-grade+systems+%F0%9F%9A%80;Scaling+products+from+1M%2B+users+into+global+markets+%F0%9F%8C%8D;React+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+Node.js+%C2%B7+AWS;Secure-by-design.+Performance-driven.+Always+shipping.+%F0%9F%A7%A0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=18&duration=2600&pause=800&color=39D353&center=true&vCenter=true&multiline=false&width=760&lines=Building+AI+products+with+RAG%2C+evals+%26+agents;Architect+of+scalable%2C+production-grade+systems+%F0%9F%9A%80;Scaling+products+from+1M%2B+users+into+global+markets+%F0%9F%8C%8D;React+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+Node.js+%C2%B7+AWS;Secure-by-design.+Performance-driven.+Always+shipping.+%F0%9F%A7%A0" alt="Typing SVG" />
 
 </div>
 
@@ -20,21 +20,27 @@
 
 <div align="center">
 
-**Vitor Cavalcante** — *Senior Fullstack Engineer · 6+ years building cloud-native web & mobile platforms*
+**Vitor Cavalcante** — *Senior Fullstack Engineer · 6+ years building cloud-native platforms · Applied AI engineering*
 
 </div>
 
 Fullstack Engineer with **6+ years of experience**, backed by a strong foundation in **Computer Engineering (BSc)** and a **postgraduate in Cybersecurity**. Proficient in **React, Next.js, React Native, Node.js, NestJS, AWS, TypeScript, and PostgreSQL** — focused on constructing **scalable, high-performance applications** across frontend, backend, mobile, and cloud environments.
 
+I also bring **hands-on AI engineering experience**: integrating conversational agents, **retrieval-augmented generation (RAG)**, model APIs, conversation evaluations, and MCP-based automation. In international, cross-functional teams, I've owned delivery across architecture, frontend, backend, databases, integrations, and production operations.
+
 Throughout my career, I've led initiatives that **directly generated business value**:
 
+> 🤖 &nbsp; Owned an **AI-powered company qualification platform** from concept to production MVP, supporting its first **~US$700K enterprise agreement**. Built calling campaigns supporting **1,000+ requests/minute**, associated with **US$1M+ in revenue**.
+>
+> 🧠 &nbsp; Connected **Slack, GitHub, Linear, and Claude/Codex through MCP**, increasing personal task completion throughput by **~70%**. AI-assisted delivery and layered reviews contributed to **~50% more deployments** and **~60% fewer production bugs**.
+>
 > 🌍 &nbsp; Drove the **internationalization and large-scale refactor** of a platform with **1M+ users** — reducing support demand by **30%** and unlocking expansion into global markets.
 >
 > 🛟 &nbsp; Led the **recovery of a critical project**, preventing a **R$600K loss** and unlocking an additional **R$120K** in investment through improved delivery and technical leadership.
 >
 > 💸 &nbsp; Resolved a high-impact **financial inconsistency in a payment system** — reducing response time from **5 minutes to 10 seconds** and recovering over **R$50K**, significantly improving system reliability.
 
-I'm a **Certified Security Professional by CeCyber**, driven by the challenge of transforming projects into solutions that **improve people's lives, strengthen businesses, and foster high-performing teams** — through dedication and consistent execution.
+I'm a **Secure Developer Professional certified by CECyber**, driven by building reliable products, applying AI where it creates value, and collaborating across cultures and time zones to solve meaningful business problems.
 
 <br/>
 
@@ -46,13 +52,18 @@ Role:        Senior Fullstack Engineer / Senior Software Engineer
 Location:    Brasília, Brazil
 
 Stack:       React • Next.js • React Native • Node.js • NestJS • TypeScript
-Cloud:       AWS (Lambda · EC2 · RDS · S3 · CloudWatch · Route53 · CloudFront) • Docker • Terraform
+Cloud:       AWS (Lambda · EC2 · RDS · S3 · CloudWatch · Amplify · Route53 · CloudFront)
+             Azure Blob Storage • Docker • Terraform
 Database:    PostgreSQL • Redis • MongoDB • MySQL
+AI:          Conversational agents • RAG • Model evaluations • OpenAI / Anthropic APIs
+             LiveKit • MCP • Multi-agent orchestration • Claude Code • Codex
+Delivery:    Hatchet • GitHub Actions • Sentry • Greptile • CodeRabbit
 Security:    OWASP Top 10 • SAST/SCA/DAST • Fortify • Veracode • SonarQube
 
 Focus:       Scalable architectures • Cloud-native development • Real-time systems
              DevSecOps & secure-by-design • Performance tuning • System refactoring
              API design & integrations • Mobile-first engineering • Technical leadership
+             AI product delivery • Agent-assisted engineering • International collaboration
 
 Languages:   English (C1) · Portuguese (Native) · Spanish (B1) · French (A1)
 ```
@@ -63,11 +74,41 @@ Languages:   English (C1) · Portuguese (Native) · Spanish (B1) · French (A1)
 
 <div align="center">
 
-> Metrics from production systems I've led or contributed to.
+> Outcomes from products and workflows I've led or contributed to. Percentage improvements are approximate internal comparisons; commercial figures reflect agreements or campaigns supported by the engineering work.
 
 </div>
 
 <table>
+  <tr>
+    <td align="center">🤖</td>
+    <td><b>AI platform ownership</b> — concept → production MVP</td>
+    <td><b>~US$700K</b> first enterprise agreement</td>
+    <td><sub>React · NestJS · PostgreSQL · Redis · AWS</sub></td>
+  </tr>
+  <tr>
+    <td align="center">📞</td>
+    <td><b>AI calling campaigns</b> — asynchronous workflows at scale</td>
+    <td><b>1,000+ requests/minute</b></td>
+    <td><sub>Campaigns associated with US$1M+ revenue · Hatchet · AWS</sub></td>
+  </tr>
+  <tr>
+    <td align="center">🧠</td>
+    <td><b>MCP-integrated engineering</b> — context, planning, coding &amp; review</td>
+    <td><b>~70% more tasks completed</b></td>
+    <td><sub>Personal throughput · 30% shorter response times · automated leadership reports</sub></td>
+  </tr>
+  <tr>
+    <td align="center">🔎</td>
+    <td><b>AI-assisted delivery &amp; layered reviews</b> — code, security &amp; automated tests</td>
+    <td><b>~50% more deployments</b></td>
+    <td><sub>~60% fewer production bugs · Greptile · CodeRabbit · AI review agents</sub></td>
+  </tr>
+  <tr>
+    <td align="center">⚙️</td>
+    <td><b>Interfaces handling millions of records</b> — virtualization &amp; pagination</td>
+    <td><b>5+ min → 30–90 sec</b> on legacy views</td>
+    <td><sub>New platform views under 20 sec · TanStack</sub></td>
+  </tr>
   <tr>
     <td align="center">🌐</td>
     <td><b>Platform internationalization</b> — consumer mobile platform · 1M+ users</td>
@@ -76,7 +117,7 @@ Languages:   English (C1) · Portuguese (Native) · Spanish (B1) · French (A1)
   </tr>
   <tr>
     <td align="center">🏗️</td>
-    <td><b>Monolith → microservices refactor</b> — B2C SaaS at scale</td>
+    <td><b>Monolith → independent frontend &amp; API</b> — B2C SaaS at scale</td>
     <td align="center"><img src="https://img.shields.io/badge/20%25_AHEAD-✓-22c55e?style=flat-square&labelColor=052e16"/></td>
     <td><sub>+40% engagement · +4% conversion</sub></td>
   </tr>
@@ -120,6 +161,16 @@ Languages:   English (C1) · Portuguese (Native) · Spanish (B1) · French (A1)
 
 ---
 
+## 🤖 AI Engineering & Product Delivery
+
+- **Conversational AI:** Built configurable interviews and qualification workflows using company-specific requirements and context. Partnered with AI engineers on RAG integration, conversation evaluations, and model benchmarking to improve relevance and quality.
+- **End-to-end ownership:** Led frontend, backend, database migrations, integrations, observability, and architectural decisions; coordinated infrastructure provisioning with DevOps and releases with QA.
+- **Agent orchestration:** Connected Slack and Linear context to planning agents, parallel implementation agents, and iterative code/security reviews using Claude Code, Codex, and MCP integrations. Automated end-of-day reports for leadership and handoffs across time zones.
+- **Production reliability:** Implemented Sentry monitoring and engineering alerts, catching a critical defect early enough to help protect a ~US$700K agreement.
+- **Recruitment tooling:** Delivered integrations with eight external job boards and synchronized webcam/screen-share review interfaces enabling approximately 2× faster candidate assessment.
+
+---
+
 ## 👓 Tech Stack 🧐
 
 <div align="center">
@@ -137,6 +188,9 @@ Languages:   English (C1) · Portuguese (Native) · Spanish (B1) · French (A1)
 ![Zustand](https://img.shields.io/badge/Zustand-1e1e2e?style=for-the-badge&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-1e1e2e?style=for-the-badge&logo=zod&logoColor=3068B7)
 
+![TanStack Router](https://img.shields.io/badge/TanStack_Router-1e1e2e?style=for-the-badge)
+![TanStack Form](https://img.shields.io/badge/TanStack_Form-1e1e2e?style=for-the-badge)
+
 ### ⚙️ Backend & Databases 🤖
 ![Node.js](https://img.shields.io/badge/Node.js-1e1e2e?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![NestJS](https://img.shields.io/badge/NestJS-1e1e2e?style=for-the-badge&logo=nestjs&logoColor=E0234E)
@@ -151,6 +205,8 @@ Languages:   English (C1) · Portuguese (Native) · Spanish (B1) · French (A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1e1e2e?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL-1e1e2e?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
+![TypeORM](https://img.shields.io/badge/TypeORM-1e1e2e?style=for-the-badge)
+
 ### ☁️ Cloud, DevOps & DevSecOps 💭
 ![AWS](https://img.shields.io/badge/AWS-1e1e2e?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Lambda](https://img.shields.io/badge/Lambda-1e1e2e?style=for-the-badge&logo=awslambda&logoColor=FF9900)
@@ -164,6 +220,23 @@ Languages:   English (C1) · Portuguese (Native) · Spanish (B1) · French (A1)
 ![Fortify](https://img.shields.io/badge/Fortify-1e1e2e?style=for-the-badge&logo=microfocus&logoColor=FFD200)
 ![Veracode](https://img.shields.io/badge/Veracode-1e1e2e?style=for-the-badge&logo=veracode&logoColor=006FBA)
 ![SonarQube](https://img.shields.io/badge/SonarQube-1e1e2e?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+
+![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-1e1e2e?style=for-the-badge)
+![Azure Blob Storage](https://img.shields.io/badge/Azure_Blob_Storage-1e1e2e?style=for-the-badge)
+
+### 🤖 AI Engineering & Automation
+![RAG](https://img.shields.io/badge/RAG-1e1e2e?style=for-the-badge)
+![Model Evaluations](https://img.shields.io/badge/Model_Evaluations-1e1e2e?style=for-the-badge)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-1e1e2e?style=for-the-badge)
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-1e1e2e?style=for-the-badge)
+![LiveKit](https://img.shields.io/badge/LiveKit-1e1e2e?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-1e1e2e?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude_Code-1e1e2e?style=for-the-badge)
+![Codex](https://img.shields.io/badge/Codex-1e1e2e?style=for-the-badge)
+![Greptile](https://img.shields.io/badge/Greptile-1e1e2e?style=for-the-badge)
+![CodeRabbit](https://img.shields.io/badge/CodeRabbit-1e1e2e?style=for-the-badge)
+![Hatchet](https://img.shields.io/badge/Hatchet-1e1e2e?style=for-the-badge)
+![Sentry](https://img.shields.io/badge/Sentry-1e1e2e?style=for-the-badge&logo=sentry&logoColor=white)
 
 ### 🧭 Architecture & Practices 🧠
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1e1e2e?style=for-the-badge&logoColor=39d353)
@@ -193,6 +266,16 @@ Languages:   English (C1) · Portuguese (Native) · Spanish (B1) · French (A1)
 <div align="center">
 
 <table>
+  <tr>
+    <td align="center">🤖</td>
+    <td><b>Owned an AI platform from concept to MVP, supporting a ~US$700K enterprise agreement</b></td>
+    <td><b>DELIVERED</b></td>
+  </tr>
+  <tr>
+    <td align="center">🌎</td>
+    <td><b>Delivered AI products with international, cross-functional teams</b></td>
+    <td><b>DELIVERED</b></td>
+  </tr>
   <tr>
     <td align="center">🎓</td>
     <td><b>B.Eng. Computer Engineering</b> — UniCEUB</td>
@@ -258,9 +341,9 @@ Languages:   English (C1) · Portuguese (Native) · Spanish (B1) · French (A1)
 
 <div align="center">
 
-If you're building something ambitious — whether that's **scaling a product into global markets**, **modernizing a legacy system into a clean, cloud-native architecture**, **stepping in as Technical Lead to recover or accelerate delivery**, or shipping with **performance and security in equal measure** — let's talk.
+If you're building something ambitious — whether that's **scaling a product into global markets**, **modernizing a legacy system into a clean, cloud-native architecture**, **stepping in as Technical Lead to recover or accelerate delivery**, building **AI-powered products and conversational agents**, or shipping with **performance and security in equal measure** — let's talk.
 
-I thrive in environments where engineering meets real business impact: where decisions matter, **legacy code becomes leverage**, and teams ship together. Bring me the hard problems — the migrations everyone postponed, the at-risk projects, the platforms ready to scale globally.
+I thrive in environments where engineering meets real business impact: where decisions matter, **complex systems become reliable products**, and teams ship together. Bring me the hard problems — the migrations everyone postponed, the at-risk projects, the platforms ready to scale globally.
 
 <br/>
 
