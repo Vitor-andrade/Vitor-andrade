@@ -164,6 +164,8 @@ Languages:   English (C1) · Portuguese (Native) · Spanish (B1) · French (A1)
 
 ## 🤖 AI Engineering & Product Delivery
 
+*Experience period: July–November 2026 · International AI product engineering*
+
 - **Conversational AI:** Built configurable interviews and qualification workflows using company-specific requirements and context. Partnered with AI engineers on RAG integration, conversation evaluations, and model benchmarking to improve relevance and quality.
 - **End-to-end ownership:** Led frontend, backend, database migrations, integrations, observability, and architectural decisions; coordinated infrastructure provisioning with DevOps and releases with QA.
 - **Agent orchestration:** Connected Slack and Linear context to planning agents, parallel implementation agents, and iterative code/security reviews using Claude Code, Codex, and MCP integrations. Automated end-of-day reports for leadership and handoffs across time zones.
