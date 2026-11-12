@@ -166,11 +166,17 @@ Languages:   English (C1) · Portuguese (Native) · Spanish (B1) · French (A1)
 
 *Experience period: July–November 2026 · International AI product engineering*
 
-- **Conversational AI:** Built configurable interviews and qualification workflows using company-specific requirements and context. Partnered with AI engineers on RAG integration, conversation evaluations, and model benchmarking to improve relevance and quality.
-- **End-to-end ownership:** Led frontend, backend, database migrations, integrations, observability, and architectural decisions; coordinated infrastructure provisioning with DevOps and releases with QA.
-- **Agent orchestration:** Connected Slack and Linear context to planning agents, parallel implementation agents, and iterative code/security reviews using Claude Code, Codex, and MCP integrations. Automated end-of-day reports for leadership and handoffs across time zones.
+- **RAG ingestion and retrieval:** Built a HubSpot integration and hourly Hatchet synchronization into PostgreSQL vector storage, implementing persistence and chunking. Shared embedding work with the AI engineer; the retrieval workflow included reranking.
+- **Product agents and memory:** Owned LiveKit call setup and backend context assembly for OpenAI-powered conversations, incorporating prior company interactions as context for later calls. Prioritized low latency, conversation quality and adherence to the call script.
+- **Backend orchestration:** Built scoring APIs and webhook ingestion, persisted transcripts, summaries and scores in PostgreSQL, and exposed recordings and results in analytical dashboards. Implemented retries, interruption handling and graceful shutdown.
+- **Prompt and behavior tuning:** Refined instructions, retrieval, question progression, call-ending rules and conversational personality. Partnered with AI engineers on human review of reports, transcripts and recordings to investigate factual errors, overconfidence and topic drift.
+- **End-to-end ownership:** Led frontend, backend, database migrations, integrations, observability and architectural decisions; coordinated infrastructure provisioning with DevOps and releases with QA.
 - **Production reliability:** Implemented Sentry monitoring and engineering alerts, catching a critical defect early enough to help protect a ~US$700K agreement.
 - **Recruitment tooling:** Delivered integrations with eight external job boards and synchronized webcam/screen-share review interfaces enabling approximately 2× faster candidate assessment.
+
+### AI-Assisted Development Workflow
+
+Connected Slack, GitHub and Linear through MCP to planning agents, parallel implementation agents and iterative code/security review using Claude Code and Codex. Automated end-of-day leadership reports and handoffs across time zones. Personal task throughput increased by **~70%**; the broader AI-assisted delivery workflow contributed to **~50% more deployments** and **~60% fewer production bugs**.
 
 ---
 
